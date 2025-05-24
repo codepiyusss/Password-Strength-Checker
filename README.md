@@ -27,7 +27,6 @@ This is a beginner-friendly Python project that checks the strength of a user-en
 ## 📸 Screenshot
 ![App Screenshot](screenshot.png)
 
-> *(You can upload your screenshot as `screenshot.png` in the repo)*
 
 ---
 
